@@ -1,0 +1,35 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    shr   R-squared:                       0.075
+Model:                            OLS   Adj. R-squared:                  0.073
+Method:                 Least Squares   F-statistic:                     175.7
+Date:                Tue, 20 Oct 2026   Prob (F-statistic):          7.24e-283
+Time:                        12:45:48   Log-Likelihood:                -20824.
+No. Observations:                4136   AIC:                         4.167e+04
+Df Residuals:                    4126   BIC:                         4.173e+04
+Df Model:                           9                                         
+Covariance Type:                  HC1                                         
+==================================================================================================
+                                     coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------
+Intercept                        157.9993     15.916      9.927      0.000     126.804     189.195
+C(profit_status)[T.Profit]        20.8228      2.390      8.711      0.000      16.138      25.508
+C(operator)[T.DaVita]             15.3873      2.551      6.033      0.000      10.388      20.386
+C(operator)[T.Fresenius]          -9.0858      2.628     -3.458      0.001     -14.236      -3.936
+C(operator)[T.Independent]         0.5039      3.490      0.144      0.885      -6.337       7.344
+C(operator)[T.Other chain]        10.6454      3.576      2.977      0.003       3.637      17.654
+C(operator)[T.U.S. Renal Care]    -3.1711      3.101     -1.022      0.307      -9.250       2.907
+pct_catheter                       0.5225      0.071      7.361      0.000       0.383       0.662
+pct_ktv_ok                        -0.5224      0.143     -3.641      0.000      -0.804      -0.241
+np.log(stations)                   3.8877      1.468      2.648      0.008       1.011       6.765
+==============================================================================
+Omnibus:                      405.592   Durbin-Watson:                   1.692
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              902.729
+Skew:                           0.605   Prob(JB):                    9.44e-197
+Kurtosis:                       4.942   Cond. No.                     6.36e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+[2] The condition number is large, 6.36e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
