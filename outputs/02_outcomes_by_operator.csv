@@ -1,0 +1,7 @@
+operator,facilities,avg_star,median_hosp_rate,median_readmit_rate,median_infection_ratio,median_pct_catheter,pct_hosp_worse_than_expected
+DaVita,2799,2.99,145.6,27.4,0.25,16.0,4.4
+Fresenius,2701,2.9,138.0,26.9,0.26,18.0,3.0
+Independent,742,2.27,148.6,27.9,0.46,24.0,5.9
+Other chain,577,2.56,142.7,26.8,0.35,21.0,7.1
+U.S. Renal Care,453,3.06,139.7,27.1,0.2,16.0,2.0
+American Renal,218,2.96,143.3,27.3,0.24,16.0,6.0
