@@ -1,0 +1,5 @@
+catheter_quartile,facilities,catheter_range,median_hosp_rate,median_sir,pct_hosp_worse
+Q1 (lowest),1152,0-13%,132.6,0.27,2.4
+Q2,930,14-18%,138.4,0.28,2.3
+Q3,1051,19-25%,141.9,0.27,5.0
+Q4 (highest),1003,26-95%,148.8,0.26,7.1
