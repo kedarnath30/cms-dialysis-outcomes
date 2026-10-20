@@ -1,0 +1,10 @@
+ccn,facility,city,operator,five_star,measures_worse,survival_cat,hosp_cat,readmit_cat,infection_cat
+452708,DaVita Conroe Dialysis,CONROE,DaVita,1,2,As Expected,Worse than Expected,Worse than Expected,As Expected
+672613,DaVita Home at the Museum PD,HOUSTON,DaVita,,2,As Expected,Worse than Expected,Worse than Expected,Not Available
+742536,DaVita Jackson Meadows,McAllen,DaVita,2,2,As Expected,Worse than Expected,Worse than Expected,Better than Expected
+672671,DaVita McKinney Dialysis,MCKINNEY,DaVita,2,2,As Expected,Worse than Expected,Worse than Expected,As Expected
+672691,DaVita Ridgecrest Dialysis,EL PASO,DaVita,3,2,As Expected,Worse than Expected,Worse than Expected,As Expected
+672800,Dialyze Direct Sugarland,SUGAR LAND,Independent,1,2,Worse than Expected,Worse than Expected,As Expected,Not Available
+672881,FKC Northside Dialysis,HOUSTON,Fresenius,1,2,As Expected,Worse than Expected,Worse than Expected,As Expected
+452574,FRESENIUS MEDICAL CARE NORTH HOUSTON,HOUSTON,Fresenius,2,2,As Expected,Worse than Expected,Worse than Expected,As Expected
+742567,Texoma Dialysis Center,SHERMAN,American Renal,3,2,As Expected,Worse than Expected,Worse than Expected,Better than Expected
